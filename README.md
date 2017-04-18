@@ -1,2 +1,6 @@
 # 7SegmentArduinoDisplay
-Basic code for displaying 0-9 on 7Segment Display
+A very basic 7 Segmented Display for Arduino.
+
+Initialises the display with a fancy animation
+
+Counts from 1-9, then blinks 0 twice.
